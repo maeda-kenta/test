@@ -5,7 +5,7 @@ import random
 st.set_page_config(page_title="タイトル", layout="wide")
 
 # タイトルを設定
-st.title('前田健太')
+st.title('maedakenta')
 
 # テキスト入力ボックスを作成し、ユーザーからの入力を受け取る
 user_input = st.text_input('あなたの名前を入力してください')
